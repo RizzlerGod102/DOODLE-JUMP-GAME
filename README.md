@@ -22,4 +22,4 @@
 
 Click this link to play:
 
-https://rizzlergod102.github.io/DOODLE-JUMP-GAME/Doodle%20Jump%20Game/index.html 
+https://rizzlergod102.github.io/DOODLE-JUMP-GAME/Doodle%20Jump%20Game/index.html
