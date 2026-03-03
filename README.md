@@ -19,3 +19,7 @@
 2. Select **Download ZIP**  
 3. Extract the ZIP file to a folder on your computer  
 4. Open index.html in your browser to play  
+
+Click this link to play:
+
+https://rizzlergod102.github.io/DOODLE-JUMP-GAME/Doodle%20Jump%20Game/index.html
